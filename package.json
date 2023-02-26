@@ -1,0 +1,26 @@
+{
+  "name": "builditup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdriMareel/Build-it-up-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdriMareel/Build-it-up-/issues"
+  },
+  "homepage": "https://github.com/AdriMareel/Build-it-up-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "http": "0.0.1-security",
+    "phaser3-rex-plugins": "^1.1.44",
+    "socket.io": "^4.0.1"
+  }
+}
